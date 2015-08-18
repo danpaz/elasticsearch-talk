@@ -1,0 +1,15 @@
+{
+  "name": "elasticsearch-talk",
+  "version": "1.0.0",
+  "description": "An introduction to Elasticsearch.",
+  "main": "index.js",
+  "dependencies": {
+    "cleaver": "0.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Paz-Soldan <daniel.pazsoldan@gmail.com>",
+  "license": "MIT"
+}
